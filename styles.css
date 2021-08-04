@@ -1,0 +1,39 @@
+* {
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    background-color: #573f2e;
+    height: 30%;
+    width: 100%;
+}
+
+.header-left {
+    height: 100%;
+    width: 30%;
+    display: flex;
+    background-color: #3e2d21;
+}
+
+main {
+    height: 70%;
+    width: 100%;
+    position: relative;
+    background-color: #6a4021;
+}
+
+.side {
+    height: 100%;
+    width: 30%;
+    background-color: #faeded;
+}
+
+.main-bottom {
+    position: absolute;
+    left: 30%;
+    top: 70%;
+    height: 30%;
+    background-color: #3e2d21;
+}
+
